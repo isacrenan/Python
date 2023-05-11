@@ -1,4 +1,5 @@
-#Calculadora de Compras com Desconto
+Calculadora de Compras com Desconto
+
 Este é um projeto simples de uma calculadora que recebe os valores e quantidades de três produtos diferentes e calcula o total da compra com um possível desconto de 5% caso o total seja maior ou igual a R$ 500,00.
 
 Tecnologias Utilizadas
